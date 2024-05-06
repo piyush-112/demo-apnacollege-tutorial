@@ -1,3 +1,3 @@
 # demo-apnacollege-tutorial
 THis is my demo Git repository.
-Author - Piyush Chudhari
+Author - Piyush Chudhari (pc)
